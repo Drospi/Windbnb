@@ -46,6 +46,7 @@ nav {
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 2rem 5rem;
+    overflow: hidden;
 }
 nav img{
     padding: 1rem;
